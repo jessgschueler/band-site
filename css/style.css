@@ -1,0 +1,9 @@
+.column {
+  width: 15%;
+  float: left;
+  background-color: orange;
+}
+
+img {
+  float: right;
+}
